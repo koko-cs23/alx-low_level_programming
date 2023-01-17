@@ -1,2 +1,2 @@
 # alx-low_level_programming
-A repository for C programming tasks. 
+Repository for C programming tasks. 
